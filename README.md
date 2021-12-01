@@ -11,3 +11,5 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh133)](https://github.com/nilesh133/github-readme-stats) -->
 
 #### Contact Me:
+<a href="https://www.linkedin.com/in/nilesh-prajapati-432983214/"><img align="left" src="https://raw.githubusercontent.com/nilesh133/nilesh133/main/images/linkedin.svg" alt = "LinkedIn" width="35px"/></a>
+<a href="https://www.instagram.com/nileshprajapati_13/"><img align="left" src="https://raw.githubusercontent.com/nilesh133/nilesh133/main/images/instagram.svg" alt = "LinkedIn" width="35px"/></a>
