@@ -22,5 +22,4 @@
 <br>
 
 <h3 align="left">Stats:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nilesh133&show_icons=true&locale=en" alt="nilesh133" width="450"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh133&" alt="nilesh133" width="450"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh133&show_icons=true&locale=en" alt="nilesh133" /></p>
